@@ -9,7 +9,7 @@ A Power BI dashboard to keep track of your personal finance and net worth.
 - Net Worth
 
 ## Data
-Replace your data in the same format as in the template file.
+Replace your data in the same format as in the **template.xlsx** file.
 
 ## Get Started
 - Update the file path based in Power Query to be able to read the source file.
